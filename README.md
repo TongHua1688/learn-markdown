@@ -15,7 +15,7 @@ this is a [hyperlink](https://github.com/)
     4. 第三
 
 ---
-水平分割线
+这是王伟的页面
 
 请执行这个命令：`scoop install git`
 
@@ -31,3 +31,4 @@ $env:Path
 ```
 <img src="https://img.shetu66.com/2023/07/05/1688537701771625.png"/>
 
+this is a [hyperlink](More.md)
